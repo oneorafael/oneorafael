@@ -3,10 +3,10 @@
 ### Hey, I’m Rafael 👨🏾‍💻 🗺
 
 * ✈️ I’m a digital nomad and Swift developer.
-* 🔭 I’m currently working on some apps for 2021
-* 👨🏾‍💻 I’m currently learning more about Swift, iOS Development, MVVM, Cocoa, REST APIs and UI/UX Design.
+* 🔭 I’m currently working at Capgemini
+* 👨🏾‍💻 I’m currently learning more about Swift, iOS Development, Accessibility, MVVM, CocoaPods, REST APIs and UI/UX Design.
 * 🌍 Languages: Portuguese, Spanish and English.
-* 💻 Techs: Swift, Flutter and adobe XD 
+* 💻 Techs: Swift, Flutter and Figma 
 
 👔 [linkedin][linkedin] **|** 
 🏡 [blog][blog] **|** 
