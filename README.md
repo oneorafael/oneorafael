@@ -3,7 +3,7 @@
 ### Hey, I’m Rafael 👨🏾‍💻 🗺
 
 * ✈️ I’m a digital nomad and Swift developer.
-* 🔭 I’m currently working at Capgemini
+* 🔭 I’m currently searching new opportunities
 * 👨🏾‍💻 I’m currently learning more about Swift, iOS Development, Accessibility, MVVM, CocoaPods, REST APIs and UI/UX Design.
 * 🌍 Languages: Portuguese, Spanish and English.
 * 💻 Techs: Swift, Flutter and Figma 
