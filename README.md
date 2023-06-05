@@ -1,12 +1,10 @@
-![final header@2x](https://user-images.githubusercontent.com/26628994/101356169-70851b80-3876-11eb-8cbe-c5b794453bbb.png)
 
 ### Hey, I’m Rafael 👨🏾‍💻 🗺
 
-* ✈️ I’m a digital nomad and Swift developer.
+* ✈️ I’m a Swift developer.
 * 🔭 I’m currently searching new opportunities
-* 👨🏾‍💻 I’m currently learning more about Swift, iOS Development, Accessibility, MVVM, CocoaPods, REST APIs and UI/UX Design.
 * 🌍 Languages: Portuguese, Spanish and English.
-* 💻 Techs: Swift, Flutter and Figma 
+* 💻 Techs: Swift, SwiftUI, Flutter and Figma 
 
 👔 [linkedin][linkedin] **|** 
 🏡 [blog][blog] **|** 
