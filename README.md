@@ -1,7 +1,7 @@
 
 ### Hey, I’m Rafael 👨🏾‍💻 🗺
 
-* ✈️ I’m a Swift developer.
+* ✈️ I’m a iOS developer.
 * 🔭 I’m currently searching new opportunities
 * 🌍 Languages: Portuguese, Spanish and English.
 * 💻 Techs: Swift, SwiftUI, Flutter and Figma 
