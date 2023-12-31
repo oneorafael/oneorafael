@@ -3,7 +3,7 @@
 #### iOS Developer 🧑🏾‍💻
  Over the last five years I've cultivated expertise in iOS Development, working in projects within the banking sector and e-commerce. Additionally, I've successfully executed some Augmented Reality projects too.  
 * 🌍  I'm based in São Paulo - Brazil
-* 🖥️  See my portfolio here:[my site](https://oneorafael.github.io)
+* 🖥️  See my portfolio here: [my site](https://oneorafael.github.io)
 * ✉️  You can contact me at [Oneorafael@gmail.com](mailto:Oneorafael@gmail.com)
 * 🧠  I'm learning SwiftUI, Swift, Swift Data and Flutter
 
