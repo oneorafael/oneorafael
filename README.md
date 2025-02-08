@@ -1,5 +1,5 @@
 
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Rafael Oliveira  
+### Hi, my name is Rafael Oliveira ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 #### iOS Developer 🧑🏾‍💻
 Over the past five years, I've honed my expertise in iOS Development, working on projects within the banking and e-commerce sectors. Additionally, I've successfully led and executed several Augmented Reality projects
 * 🌍  I'm based in São Paulo - Brazil
